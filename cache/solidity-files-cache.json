@@ -1,7 +1,7 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Applications/MAMP/htdocs/platzi/platzi-punks/contracts/Lock.sol": {
+    "/Applications/MAMP/htdocs/platzi/brusmax-nfts/contracts/Lock.sol": {
       "lastModificationDate": 1662008683082,
       "contentHash": "6b2b4e5f78898e06c05af92d32436ca9",
       "sourceName": "contracts/Lock.sol",
@@ -38,7 +38,7 @@
         "Lock"
       ]
     },
-    "/Applications/MAMP/htdocs/platzi/platzi-punks/node_modules/hardhat/console.sol": {
+    "/Applications/MAMP/htdocs/platzi/brusmax-nfts/node_modules/hardhat/console.sol": {
       "lastModificationDate": 1662007639771,
       "contentHash": "4ff3cd2f6272c9a6516e9ee4f2b967d3",
       "sourceName": "hardhat/console.sol",
